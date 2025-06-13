@@ -1,0 +1,513 @@
+[
+  {
+    "id": "sphalerite",
+    "title": "Sphalerite",
+    "description": "A beautiful mineral with a stunning luster and deep color variations.",
+    "price": 120.00,
+    "color": "Multi",
+    "hardness": "3.50",
+    "photo": "sphalerite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/b17731fa548f4837a9e4e69afb82347d/embed?autostart=1&camera=0&preload=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "wollastonite",
+    "title": "Wollastonite",
+    "description": "A beautiful mineral with a stunning luster and deep color variations.",
+    "price": 120.00,
+    "color": "White",
+    "hardness": "4.50",
+    "photo": "wollastonite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/1142c78e495f483688b70343f41495c6/embed?autostart=1&camera=0&preload=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "kfeldspar",
+    "title": "K-Feldspar",
+    "description": "A beautiful mineral with a stunning luster and deep color variations.",
+    "price": 120.00,
+    "color": "Multi",
+    "hardness": "6.00",
+    "photo": "kfeldspar.png",
+    "sketchfabUrl": "https://sketchfab.com/models/4c448a3506a747d68fc2a7d6860a16bf/embed?autostart=1&camera=0&preload=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "calcite",
+    "title": "Calcite",
+    "description": "A beautiful mineral with a stunning luster and deep color variations.",
+    "price": 120.00,
+    "color": "Multi",
+    "hardness": "3.00",
+    "photo": "calcite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/f842f5c568af4b808ad309ba3a8db538/embed?autostart=1&camera=0&preload=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "quartz",
+    "title": "Quartz",
+    "description": "A very common silicate mineral found in a variety of rock types. It is hard, transparent to opaque, and comes in many colors, including clear, pink (rose quartz), and purple (amethyst).",
+    "price": 3.00,
+    "color": "Multi",
+    "hardness": "7.00",
+    "photo": "quartz.png",
+    "sketchfabUrl": "https://sketchfab.com/models/40dbf45ad43b485fa9188a5507e8fed4/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "tourmaline",
+    "title": "Tourmaline",
+    "description": "Crystalline silicate material mainly composed of aluminium, iron, magnesium, sodium, lithium, or potassium. Known for its wide range of colors, it can appear as virtually every hue in the rainbow.",
+    "price": 500.00,
+    "color": "Multi",
+    "hardness": "7.00",
+    "photo": "tourmaline.png",
+    "sketchfabUrl": "https://sketchfab.com/models/4573328e166740c7a68cd7782ada6510/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "magnesite",
+    "title": "Magnesite",
+    "description": "A magnesium carbonate mineral that is typically white or gray. It is used as a source of magnesium and in refractory materials. ",
+    "price": 1.00,
+    "color": "White",
+    "hardness": "3.50",
+    "photo": "magnesite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/14139f62294c417488f1b87c8b1dffff/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "pyrite",
+    "title": "Pyrite",
+    "description": "An iron sulfide mineral with a metallic luster and golden-yellow color, often called \"fool's gold.\" It forms in a variety of environments.",
+    "price":1.00,
+    "color": "Yellow",
+    "hardness": "6.00",
+    "photo": "pyrite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/3a7c9ebce0cd4e18932fd467e34c33f5/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "ilmenite",
+    "title": "Ilmenite",
+    "description": "An iron titanium oxide mineral that is black with a metallic to submetallic luster. It is an important source of titanium.",
+    "price":1.00,
+    "color": "Grey",
+    "hardness": "5.00",
+    "photo": "ilmenite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/8844446ab0ff47099bb3daa384566c58/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "rutile",
+    "title": "Rutile",
+    "description": "A titanium dioxide mineral that is often reddish-brown or black. It is a major source of titanium and is used in pigments and coatings.",
+    "price": 70.00,
+    "color": "Black",
+    "hardness": "6.00",
+    "photo": "rutile.png",
+    "sketchfabUrl": "https://sketchfab.com/models/a4449921ca3c4208860d3847c58908c9/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "tremolite",
+    "title": "Tremolite",
+    "description": "Monoclinic calcic amphibole, exhibits a vitreous luster and white streaks. Used commercially as asbestos. Handle with care",
+    "price": 210,
+    "color": "White",
+    "hardness": "5.00",
+    "photo": "tremolite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/7a857953864a434bab5b6c3b1e656fcc/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "siderite",
+    "title": "Siderite",
+    "description": "Iron carbonate mineral, brownish to yellowish color. Serves as an iron ore and is commonly found in sedimentary and hydrothermal environments.",
+    "price": 1.00,
+    "color": "Brown",
+    "hardness": "3.75",
+    "photo": "siderite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/abde5496ab2b4bf0b78e91d50f46819d/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "hornblende",
+    "title": "Hornblende",
+    "description": "Dark-colored, complex silicate mineral of the amphibole group, found in igneous and metamorphic rocks. Commonly black/green in color.",
+    "price": 2.00,
+    "color": "Black",
+    "hardness": "5.00",
+    "photo": "hornblende.png",
+    "sketchfabUrl": "https://sketchfab.com/models/7206115d0c87479b8e4a16c2e4886821/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "sulfur",
+    "title": "Sulfur",
+    "description": "Bright yellow, nonmetallic element that occurs in native form or in sulfide and sulfate minerals. Utilized in fertilizers and industrial chemicals.",
+    "price": 1.00,
+    "color": "Yellow",
+    "hardness": "1.50",
+    "photo": "sulfur.png",
+    "sketchfabUrl": "https://sketchfab.com/models/61b707bc7e784c90b829386cf79cbf6e/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "plagioclase",
+    "title": "Plagioclase",
+    "description": "A series of feldspar minerals that range from albite to anorthite. It is commonly found in igneous rocks and exhibits striations on cleavage surfaces.",
+    "price": 1.00,
+    "color": "White",
+    "hardness": "6.00",
+    "photo": "plagioclase.png",
+    "sketchfabUrl": "https://sketchfab.com/models/9eca94a2447544afbf907f40bb27497c/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "flint",
+    "title": "Flint",
+    "description": "A fine-grained, cryptocrystalline variety of quartz that is typically gray or black. It was historically used for making tools and starting fires.",
+    "price": 1.00,
+    "color": "Black",
+    "hardness": "7.00",
+    "photo": "flint.png",
+    "sketchfabUrl": "https://sketchfab.com/models/3853d25e253e4a36b91dc3d601c08c10/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "muscovite",
+    "title": "Muscovite",
+    "description": "A silicate mineral from the mica group, with a light-colored, transparent to silvery appearance. It forms in thin, flexible sheets and is used in electrical insulators. ",
+    "price": 3.00,
+    "color": "Yellow",
+    "hardness": "2.00",
+    "photo": "muscovite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/3946dfd4fe1745ddb7033d826f836ee8/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "molybdenite",
+    "title": "Molybdenite",
+    "description": "A molybdenum sulfide mineral with a metallic luster and silver-gray color. It is the primary ore of molybdenum, which is used in steel alloys.",
+    "price": 1.00,
+    "color": "Grey",
+    "hardness": "1.00",
+    "photo": "molybdenite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/777b32d4b0e54a15b5da9ac5512d411b/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "magnetite",
+    "title": "Magnetite",
+    "description": " An iron oxide mineral that is strongly magnetic and commonly black. It is a major iron ore and is found in igneous, metamorphic, and sedimentary rocks.",
+    "price": 1.00,
+    "color": "Grey",
+    "hardness": "5.50",
+    "photo": "magnetite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/b151bbb5f9e84d8388024ed6117dfa81/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "pyrrhotite",
+    "title": "Pyrrhotite",
+    "description": "An iron sulfide mineral that is often bronze to dark brown in color and weakly magnetic. It is commonly found in association with nickel and copper deposits.",
+    "price": 1.00,
+    "color": "Brown",
+    "hardness": "3.50",
+    "photo": "pyrrhotite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/6940a39e83ab4504a7b0314870eb4bcc/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "galena",
+    "title": "Galena",
+    "description": "A lead sulfide mineral that is the primary ore of lead. It has a metallic luster, high density, and cubic crystal structure.",
+    "price": 1.00,
+    "color": "Grey",
+    "hardness": "2.50",
+    "photo": "galena.png",
+    "sketchfabUrl": "https://sketchfab.com/models/bdb542796b3d498494c62afeec98481e/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "kyanite",
+    "title": "Kyanite",
+    "description": "An aluminum silicate mineral that forms in metamorphic rocks. It is typically blue and has a unique anisotropic hardness (different hardness along different axes)",
+    "price": 72.00,
+    "color": "Blue",
+    "hardness": "7.00",
+    "photo": "kyanite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/54e6e2bd7db44294b0cb44afa0bb4d3d/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "chalcopyrite",
+    "title": "Chalcopyrite",
+    "description": "A copper iron sulfide mineral with a metallic golden-yellow color, often mistaken for gold. It is an important copper ore.",
+    "price": 1.00,
+    "color": "Yellow",
+    "hardness": "3.50",
+    "photo": "chalcopyrite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/9b0059db3bfd41a7ae6f51bd9b045e3f/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "chromite",
+    "title": "Chromite",
+    "description": "A chromium-rich oxide mineral that is the main ore of chromium. It appears black with a metallic to submetallic luster.",
+    "price": 1.00,
+    "color": "Black",
+    "hardness": "5.50",
+    "photo": "chromite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/4ba184b6733f4cd39f98787aebd3a8be/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "cordierite",
+    "title": "Cordierite",
+    "description": "A magnesium iron aluminum silicate mineral that exhibits strong pleochroism (changing colors depending on the viewing angle). It is used as a gemstone (iolite) and forms in metamorphic rocks.",
+    "price": 4.00,
+    "color": "Multi",
+    "hardness": "7.00",
+    "photo": "cordierite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/ec004baaf3e144b8a2751c92f71f714b/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "chlorite",
+    "title": "Chlorite",
+    "description": "A group of greenish phyllosilicate minerals commonly found in low-grade metamorphic rocks. It has a flaky texture similar to mica",
+    "price": 1.00,
+    "color": "Green",
+    "hardness": "2.00",
+    "photo": "chlorite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/f4e8454055d04977a4330ae40dbcd6ce/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "gypsum",
+    "title": "Gypsum",
+    "description": "A soft sulfate mineral that is used in plaster and drywall. It can appear white, gray, or transparent and often forms in evaporite deposits.",
+    "price":1.00,
+    "color": "White",
+    "hardness": "2.00",
+    "photo": "gypsum.png",
+    "sketchfabUrl": "https://sketchfab.com/models/de785119fe014b5e998a17e0fdcf6850/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "hypersthene",
+    "title": "Hypersthene",
+    "description": "A dark-colored pyroxene mineral that occurs in igneous and metamorphic rocks. It has a glassy luster and often appears greenish-brown.",
+    "price": 10.00,
+    "color": "Brown",
+    "hardness": "5.50",
+    "photo": "hypersthene.png",
+    "sketchfabUrl": "https://sketchfab.com/models/4ea09145a46f44aaad679f35ebdda4b5/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "hematite",
+    "title": "Hematite",
+    "description": "An iron oxide mineral with a reddish-brown to black color. It is an important iron ore and can produce a red streak when scratched on a surface",
+    "price": 1.00,
+    "color": "Brown",
+    "hardness": "5.50",
+    "photo": "hematite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/f87123b191804e4bac73ce34a42e073e/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "limonite",
+    "title": "Limonite",
+    "description": "A yellowish-brown iron oxide-hydroxide mineral that forms as a weathering product of iron-bearing minerals. It is often amorphous and was historically an iron ore.",
+    "price": 1.00,
+    "color": "Brown",
+    "hardness": "4.00",
+    "photo": "limonite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/946c1af32c9d42df8832e3848267036c/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "epidote",
+    "title": "Epidote",
+    "description": "A calcium aluminum iron silicate mineral that is typically green and found in metamorphic rocks. It forms elongated, prismatic crystals.",
+    "price": 15.00,
+  "color": "Green",
+    "hardness": "15.00",
+    "photo": "epidote.png",
+    "sketchfabUrl": "https://sketchfab.com/models/b0882dfbef97420ca509ce8ea9e2ca40/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "dolomite",
+    "title": "Dolomite",
+    "description": "A calcium magnesium carbonate mineral that closely resembles calcite but reacts more slowly with acid. It is a key component of dolostone rock.",
+    "price": 1.00,
+    "color": "Multi",
+    "hardness": "3.50",
+    "photo": "dolomite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/eaaf248e70504e699f11e02b7929186c/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "diopside",
+    "title": "Diopside",
+    "description": "A pyroxene mineral that is typically green but can also appear white or brown. It forms in metamorphic and igneous rocks.",
+    "price": 1.00,
+    "color": "Multi",
+    "hardness": "5.00",
+    "photo": "diopside.png",
+    "sketchfabUrl": "https://sketchfab.com/models/8ac6cf59b32d4402b04b6283ae8506d9/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "arsenopyrite",
+    "title": "Arsenopyrite",
+    "description": "An iron arsenic sulfide mineral with a metallic silver-gray color. It is the primary ore of arsenic and has a strong garlic-like odor when struck.",
+    "price": 1.00,
+    "color": "Silver",
+    "hardness": "5.50",
+    "photo": "arsenopyrite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/6b1015d892c642979fbea843601f14bb/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "garnet",
+    "title": "Garnet",
+    "description": "A group of silicate minerals that come in various colors, most commonly red. Garnets are used as gemstones and abrasives.",
+    "price": 500.00,
+    "color": "Orange",
+    "hardness": "6.50",
+    "photo": "garnet.png",
+    "sketchfabUrl": "https://sketchfab.com/models/61cb356aca08403d809d9595b352f9a0/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "azuritemalachite",
+    "title": "Azurite/Malachite",
+    "description": "Copper carbonate minerals; azurite is deep blue, while malachite is green. They often form together in oxidized copper deposits.",
+    "price": 40.00,
+    "color": "Blue",
+    "hardness": "3.50",
+    "photo": "azuritemalachite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/0d8c11031eca45a6862616723d36b014/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "topaz",
+    "title": "Topaz",
+    "description": "A silicate mineral that comes in a variety of colors, including yellow, blue, and pink. It has high hardness and is used as a gemstone.",
+    "price": 3000.00,
+    "color": "Mutlti",
+    "hardness": "8.00",
+    "photo": "topaz.png",
+    "sketchfabUrl": "https://sketchfab.com/models/a30c9073f8ed4f0a8ab653dc84a672e5/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "olivine",
+    "title": "Olivine",
+    "description": "A magnesium iron silicate that is typically green and found in igneous rocks such as basalt and peridotite. The gem-quality variety is known as peridot.",
+    "price": 50.00,
+    "color": "Green",
+    "hardness": "6.50",
+    "photo": "olivine.png",
+    "sketchfabUrl": "https://sketchfab.com/models/b978775d10c94646b8a3267094c24f45/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "zeolite",
+    "title": "Zeolite",
+    "description": "A group of hydrated aluminosilicate minerals that form in volcanic and sedimentary rocks. They are used for water purification and in industrial processes.",
+    "price": 5.00,
+    "color": "Pink",
+    "hardness": "4.00",
+    "photo": "zeolite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/1f90de45051e4d3d878cd1be45e90b9e/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "shungite",
+    "title": "Shungite",
+    "description": "A carbon-rich mineral (up to 98% carbon) with a black, lustrous appearance. It is associated with water purification and is sometimes considered a pseudo mineral.",
+    "price": 6.38,
+    "color": "Black",
+    "hardness": "3.50",
+    "photo": "shungite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/cd3b44571b374527a99cb29cd7a0dc96/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "biotite",
+    "title": "Biotite",
+    "description": "A dark-colored mica mineral found in igneous and metamorphic rocks. It forms thin, flexible sheets.",
+    "price": 1.00,
+    "color": "Black",
+    "hardness": "2.50",
+    "photo": "biotite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/e6efecb1b5ac478788fee365729e9dbd/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "fluorite",
+    "title": "Fluorite",
+    "description": "A calcium fluoride mineral that occurs in many colors, including purple, green, and yellow. It fluoresces under UV light and is used in optics and industry.",
+    "price": 3.00,
+    "color": "Purple",
+    "hardness": "4.00",
+    "photo": "fluorite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/8d1e4ac7632443d4a47b678c7b18463d/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "apatite",
+    "title": "Apatite",
+    "description": "A group of phosphate minerals) that are an important source of phosphorus. It can be green, blue, yellow, or brown and resembles some gemstones.",
+    "price": 10.00,
+    "color": "Blue",
+    "hardness": "5.00",
+    "photo": "apatite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/1b6fb9670a754d00ad68e65e833083b2/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "halite",
+    "title": "Halite",
+    "description": "Commonly known as rock salt, it is typically colorless or white and forms by the evaporation of saltwater. It is used for food and de-icing roads.",
+    "price": 7.50,
+    "color": "White",
+    "hardness": "2.50",
+    "photo": "halite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/a2c875b7e34e41d9bd9202aa9f587d36/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "barite",
+    "title": "Barite",
+    "description": "A barium sulfate mineral that is heavy and typically white or light-colored. It is used in drilling mud for oil and gas exploration.",
+    "price": 14.00,
+    "color": "White",
+    "hardness": "3.00",
+    "photo": "barite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/e2389ca22efc4999b374413a412e1b6d/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "rhodonite",
+    "title": "Rhodonite",
+    "description": "A manganese silicate mineral that is pink to red with black manganese oxide veins. It is used as a gemstone and ornamental stone.",
+    "price": 25.00,
+    "color": "Pink",
+    "hardness": "5.50",
+    "photo": "rhodonite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/8db01d72ccd24ee7aadc16d5f800267d/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "vesuvianite",
+    "title": "Vesuvianite",
+    "description": "A silicate mineral found in metamorphic rocks. It is often green, brown, or yellow and sometimes used as a gemstone.",
+    "price": 24.62,
+    "color": "Green",
+    "hardness": "6.50",
+    "photo": "vesuvianite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/df441e4604df4f44a5a6e60adb600a44/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "opal",
+    "title": "Opal",
+    "description": "A hydrated silica mineral that displays iridescence due to its internal structure. It is commonly used as a gemstone.",
+    "price": 10.00,
+    "color": "White",
+    "hardness": "5.50",
+    "photo": "opal.png",
+    "sketchfabUrl": "https://sketchfab.com/models/de4e143d5c384272805429619af1ab4f/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "kaolinite",
+    "title": "Kaolinite",
+    "description": "A hydrated aluminum sulfate mineral that is white or colorless and forms in evaporite deposits.",
+    "price": 150.00,
+    "color": "White",
+    "hardness": "2.00",
+    "photo": "kaolinite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/758701191aaa4878a2cf10aca568fd28/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "cassiterite",
+    "title": "Cassiterite",
+    "description": "A tin oxide mineral that is the primary ore of tin. It is usually brown to black with a high luster.",
+    "price": 125.00,
+    "color": "Black",
+    "hardness": "6.00",
+    "photo": "cassiterite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/1d1f30b819cc4332bc1553fa1e2bbda6/embed?autostart=1&transparent=1&ui_theme=dark"
+  },
+  {
+    "id": "phlogopite",
+    "title": "Phologopite",
+    "description": "A magnesium-rich mica mineral that is brown to golden and forms in metamorphic rocks.",
+    "price": 8.00,
+    "color": "Gold",
+    "hardness": "2.50",
+    "photo": "phlogopite.png",
+    "sketchfabUrl": "https://sketchfab.com/models/48c4901fd0a14c969f4ec268e7d116d8/embed?autostart=1&transparent=1&ui_theme=dark"
+  }
+
+]
